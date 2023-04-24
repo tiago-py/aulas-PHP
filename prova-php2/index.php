@@ -13,7 +13,7 @@
 		<input type="text" name="nome"><br>
 		<label>E-mail:</label><br>
 		<input type="email" name="email"><br>
-		<label>Enderesço:</label><br>
+		<label>Endereço:</label><br>
 		<input type="text" name="endereco"><br>
 		<label>Turma:</label><br>
 		<input type="text" name="turma"><br>
