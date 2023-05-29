@@ -1,3 +1,4 @@
+//código será corrigido em próximas aulas com o professor
 <?php
     require_once "loja.php";
     $estoque = new Loja;
